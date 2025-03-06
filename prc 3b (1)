@@ -1,0 +1,73 @@
+<body>
+    <table border="1" align="center">
+        <tr>
+            <th>Day-time</th>
+            <th>10:30 to 11:30</th>
+        <html>
+            <th>6:30 to 7:30</th>
+            <th>7:30 to 8:30</th>
+            <th>8:30 to 9:30</th>
+            <th>10.30 to 05.30</th>
+            <th>06.30 to 08.30</th>
+            <th>09.30 to 11.30</th>
+            </tr>
+            <tr>
+        
+            <td>Monday</td>
+            <td>GYM</td>
+            <td>breakfast </td>
+            <td rowspan="6" align="center">c<br>o<br>l<br>l<br>e<br>g<br>e</td>
+            <td>Study time</td>
+            </tr>
+            <tr>
+
+            <td>Tuesday</td>
+            <td>GYM</td>
+            <td>Study time</td>
+            <td>Walking</td>
+            <td>Dinner</td>
+            <td>Gaming</td>
+            </tr>
+            </tr>
+
+            <td>Wednesday</td>
+            <td>GYM</td>
+            <td>Gaming</td>
+            <td>Study time</td>
+            <td>EGD</td>
+            </tr>
+            </tr>
+
+            <td>Thursday</td>
+            <td>GYM</td>
+            <td>Movie time</td>
+            <td>Dinner</td>
+            <td>Study time</td>
+            </tr>
+            </tr>
+
+            <td>Friday</td>
+            <td>GYM</td>
+            <td>Maths Study</td>
+            <td>Study time</td>
+            <td>Walking</td
+            </tr>
+            </tr>
+
+            <td>Saturday</td>
+            <td>GYM</td>
+            <td>Snacks</td>
+            <td>Walking</td>
+            <td>Study time</td>
+    
+            
+            </tr>
+
+
+
+        
+    
+    </tr>
+    </table>
+</body>
+</html>
